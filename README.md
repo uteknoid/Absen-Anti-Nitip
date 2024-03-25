@@ -1,29 +1,29 @@
 # Absen-Anti-Nitip
-Absen Anti Nitip by Rafli Fadillah__
+Absen Anti Nitip by Rafli Fadillah<br />
 
-Karena saya lupa packages apa saja yang diinstall. Jadi install saja semua packages yang saya tulis berikut:__
+Karena saya lupa packages apa saja yang diinstall. Jadi install saja semua packages yang saya tulis berikut:<br />
 
-pip install opencv-python__
-pip uninstall playsound__
-pip install playsound==1.2.2__
-pip uninstall opencv-contrib-python__
-pip install opencv-contrib-python__
-pip install scikit-learn__
-pip install pyfirmata__
-pip install face_recognition__
-pip install matplotlib__
-pip install scipy__
-pip install dlib__
-pip install numpy__
-pip install --upgrade imutils__
-pip install requests__
-pip install pandas__
-pip install playsound__
-pip install --upgrade wheel__
-pip install pyttsx3__
-pip install gTTS__
-pip install sklearn__
-pip install streamlit__
-pip install streamlit_autorefresh__
-pip install datetime__
-pip install time__
+pip install opencv-python<br />
+pip uninstall playsound<br />
+pip install playsound==1.2.2<br />
+pip uninstall opencv-contrib-python<br />
+pip install opencv-contrib-python<br />
+pip install scikit-learn<br />
+pip install pyfirmata<br />
+pip install face_recognition<br />
+pip install matplotlib<br />
+pip install scipy<br />
+pip install dlib<br />
+pip install numpy<br />
+pip install --upgrade imutils<br />
+pip install requests<br />
+pip install pandas<br />
+pip install playsound<br />
+pip install --upgrade wheel<br />
+pip install pyttsx3<br />
+pip install gTTS<br />
+pip install sklearn<br />
+pip install streamlit<br />
+pip install streamlit_autorefresh<br />
+pip install datetime<br />
+pip install time<br />
